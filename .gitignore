@@ -1,0 +1,15 @@
+.env
+node_modules/
+dist/
+coverage/
+*.log
+
+data/postgres/
+data/redis/
+data/backups/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
